@@ -1,0 +1,87 @@
+[
+    {
+      "Login": "EmaBru",
+      "Initiales": "EB",
+      "Service": "usineKiou",
+      "Debug": 1,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Dess",
+      "Initiales": "DE",
+      "Service": "dessin",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Metr",
+      "Initiales": "ME",
+      "Service": "metrage",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Usc6",
+      "Initiales": "U6",
+      "Service": "usinec6",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Ukio",
+      "Initiales": "UK",
+      "Service": "usinKiou",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Mont",
+      "Initiales": "MO",
+      "Service": "montage",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Pkio",
+      "Initiales": "PK",
+      "Service": "ponceKiou",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Psyn",
+      "Initiales": "PS",
+      "Service": "ponceSynt",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Lclt",
+      "Initiales": "LC",
+      "Service": "livraiClt",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Pose",
+      "Initiales": "PO",
+      "Service": "pose",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Enlev",
+      "Initiales": "EL",
+      "Service": "enlevemt",
+      "Debug": 0,
+      "Mode": "stop"
+    },
+    {
+      "Login": "Inve",
+      "Initiales": "IN",
+      "Service": "inventaire",
+      "Debug": 1,
+      "Mode": "continu"
+    }
+  ]
+  

@@ -1,0 +1,13 @@
+Utilisateur Login,Initiales,Service,Debug 0 ou 1,mode stop ou continu
+EmaBru,EB,usineKiou,1,stop
+Dess,DE,dessin,0,stop
+Metr,ME,metrage,0,stop
+Usc6,U6,usinec6,0,stop
+Ukio,UK,usinKiou,0,stop
+Mont,MO,montage,0,stop
+Pkio,PK,ponceKiou,0,stop
+Psyn,PS,ponceSynt,0,stop
+Lclt,LC,livraiClt,0,stop
+Pose,PO,pose,0,stop
+Enlev,EL,enlevemt,0,stop
+Inve,IN,inventaire,1,continu
